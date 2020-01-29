@@ -1,7 +1,7 @@
 
-def countdown (Integer)
+def countdown (integer)
   while countdown > 0
-  puts "#{interger} SECOND(S)!" 
+  puts "#{integer} SECOND(S)!" 
   countdown -= 1
   end
  "HAPPY NEW YEAR!"
